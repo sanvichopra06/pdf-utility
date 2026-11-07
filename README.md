@@ -53,3 +53,18 @@ pdf_merger/
 
 - Develop a graphical interface using Streamlit.
 - Add file upload and PDF download functionality.
+
+## Version 2.0 – Streamlit Web Interface
+
+PDF Utility now includes a web interface built using Streamlit.
+
+### New Features
+- Interactive web interface
+- Upload multiple PDF files
+- Merge PDFs and download the result
+- Upload multiple JPG, JPEG and PNG images
+- Convert images into a single PDF
+- Download converted PDF files
+
+
+
