@@ -2,6 +2,8 @@
 
 A Python-based command-line application that allows users to merge multiple PDF files into a single PDF and convert multiple images into one PDF.
 
+## Version 1.0
+
 ## Features
 
 - **Merge PDF Files:** Combine multiple PDF documents into a single PDF.
