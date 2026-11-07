@@ -107,8 +107,17 @@ streamlit run app.py
 5. Download the generated PDF.
 
 ## Screenshots
+1. Home Page
+![Home Page](./screenshots/homepage.png)
 
-Screenshots of the Streamlit web interface will be added here.
+2. PDF Merger
+![PDF Merger](./screenshots/pdf_merger.png)
+
+3. Image to PDF Converter
+![Image Converter](./screenshots/image_converter.png)
+
+4. Download PDF
+![Download](./screenshots/download_doc.png)
 
 ## Future Improvements
 
